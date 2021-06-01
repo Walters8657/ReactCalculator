@@ -17,6 +17,11 @@
   padding: 0;
 }
 
+.component-button button:hover {
+  cursor: pointer;
+  filter: contrast(150%);
+}
+
 .component-button:last-child button {
   margin-right: 0;
 }
