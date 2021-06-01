@@ -1,3 +1,5 @@
+This project was created by referencing https://github.com/ahfarmer/calculator and is a clone of what they had already done. I just needed something to start getting back into using react since its been so long.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
